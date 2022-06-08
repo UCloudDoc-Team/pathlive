@@ -7,7 +7,7 @@
 ## 客户端相关
 
 - iOS：经过测试，可用的机型和系统为：iPhone 6s 及以上，iOS15
-- Android：暂无
+- Android：暂无 
 
 ## 通道相关
 
