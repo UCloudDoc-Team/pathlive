@@ -1,4 +1,4 @@
-# 概览.
+# 概览
 
 * [产品简介](/pathlive/intro) 
 * [功能简介](/pathlive/function) 
