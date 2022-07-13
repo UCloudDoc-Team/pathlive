@@ -34,3 +34,8 @@
 
 在APP里面能看到线路的IP地址和一个开关。每次直播前打开这个开关，等待线路状态变成已连接即可。
 ![step4](/images/step4.jpg)
+
+## 注意
+
+不可以在 iOS 的设置里面的 VPN 开关操作。
+![dontusevpnswitch](/images/dontusevpnswitch.jpg)
