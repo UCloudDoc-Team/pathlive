@@ -8,6 +8,7 @@
 
 - iOS：经过测试，可用的机型和系统为：iPhone 6s 及以上，iOS14
 - Android：Android 9.0 及以上
+- Windows 的 OBS 专用客户端：Windows 7 及以上
 
 ## 通道相关
 
