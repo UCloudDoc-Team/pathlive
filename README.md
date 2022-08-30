@@ -5,5 +5,6 @@
 * [产品优势](/pathlive/superiority) 
 * [名词解释](/pathlive/concepts) 
 * [使用指南](/pathlive/briefguide) 
+* [OBS使用指南](/pathlive/obsguide) 
 * [价格说明](/pathlive/price) 
 * [FAQ](/pathlive/faq) 
